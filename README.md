@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lieoxc
-- 👀 I’m Good at IOT, Golang, C/C++
+- 👋 Hi, I’m Lieoxc
+- 👀 I’m good at IOT, Golang, C/C++
 
 <!---
 Lieoxc/Lieoxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
