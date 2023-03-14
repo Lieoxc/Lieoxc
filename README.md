@@ -10,9 +10,10 @@ I'm a software developer based in [ShenZhen, China](https://google.com/maps/plac
 ## Skills
 
 - Programming languages: Golang, C
-- Internet of Things (IoT): MQTT, Zigbee, LoRaWAN
-- Operating Systems: Linux, RTOS
+- Internet of Things (IoT): MQTT, Zigbee, Modbus
+- Operating Systems: Linux,OpenWrt,RTOS
 - Databases: MySQL、Redis
+- Network: Linux kernel netfilter
 
 ## Contact me
 
