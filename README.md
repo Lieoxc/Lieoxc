@@ -1,6 +1,6 @@
 ## 个人信息
 
-- 李小聪/男/1996/广东/ | 手机：xxxxx , 邮箱：394101651@qq.com
+- Lieoxc/男/1996/广东/ | 手机：xxxxx , 邮箱：394101651@qq.com
 - 求职意向：Golang后端开发 | 期望城市：深圳/广州
 
 ## 技能清单
@@ -16,7 +16,7 @@
 
 ## 工作经历
 <div style="display: flex; justify-content: space-between;">
-  <div style="font-size: 15px;"><strong>深信服集团信锐网科技术有限公司（2019 年 10 月 ~ 至今 ）</strong></div>
+  <div style="font-size: 15px;"><strong>xxxx网科技术有限公司（2019 年 10 月 ~ 至今 ）</strong></div>
   <div>后端开发工程师</div>
 </div>
 
@@ -25,7 +25,7 @@
 3. 企业会议系统云平台及客户端流媒体开发
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="font-size: 15px;"><strong>宏电技术股份有限公司（2018 年 7 月 ~ 2019 年 10 月 ）</strong></div>
+  <div style="font-size: 15px;"><strong>xx技术股份有限公司（2018 年 7 月 ~ 2019 年 10 月 ）</strong></div>
   <div>linux软件开发工程师</div>
 </div>
 
