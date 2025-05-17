@@ -23,7 +23,7 @@
 1. IOT平台Golang/C后台开发，主要负责物模型以及数据解析相关业务开发
 2. 产品线研发对外接口人：技术支持，处理线上问题
 3. 企业会议系统云平台Golang后端开发
-4. C++音视频开发
+4. Windows投屏客户端C++音视频开发
 
 <div style="display: flex; justify-content: space-between;">
   <div style="font-size: 15px;"><strong>宏电技术股份有限公司（2018 年 7 月 ~ 2019 年 10 月 ）</strong></div>
@@ -37,8 +37,8 @@
 ## 项目经历 
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="font-size: 15px;"><strong>BYOM混合会议音视频开发（2024 年 3 月 ~ 至今 ）</strong></div>
-  <div>C++ 音视频开发</div>
+  <div style="font-size: 15px;"><strong>Windows投屏客户端混合会议开发（2024 年 3 月 ~ 至今 ）</strong></div>
+  <div> C++ 音视频开发</div>
 </div>
 
 **项目描述**：
@@ -60,7 +60,7 @@
 5. 采用模块化流水线架构，将RTP解析、音视频解码、渲染/注入等处理环节解耦为独立节点，支持动态加载和热插拔，系统可扩展性显著提升
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="font-size: 15px;"><strong>分布式定时调度系统（2023 年 7 月 ~ 2024年3月 ）</strong></div>
+  <div style="font-size: 15px;"><strong>企业会议系统云平台开发（2023 年 7 月 ~ 2024年3月 ）</strong></div>
   <div>Golang开发工程师</div>
 </div>
 
