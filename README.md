@@ -16,7 +16,7 @@
 
 ## 工作经历
 <div style="display: flex; justify-content: space-between;">
-  <div style="font-size: 15px;"><strong>xxxx网科技术有限公司（2019 年 10 月 ~ 至今 ）</strong></div>
+  <div style="font-size: 15px;"><strong>xxxx网科技术有限公司（2019 年 10 月 ~ 2025年 6 月 ）</strong></div>
   <div>后端开发工程师</div>
 </div>
 
